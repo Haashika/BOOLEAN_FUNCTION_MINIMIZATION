@@ -1,4 +1,9 @@
 # BOOLEAN_FUNCTION_MINIMIZATION
+```
+Developed by: HAASHIKA SINOU S
+
+RegisterNumber: 212224110018
+```
 
 **AIM:**
 
@@ -35,7 +40,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+
 
 ```
 module Boolean_min(A,B,C,D,W,X,Y,Z,F1,F2);
